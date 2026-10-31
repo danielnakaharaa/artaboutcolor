@@ -88,7 +88,9 @@ Também devem ser verificados o contraste das duas cores sobre o fundo, os texto
 
 ## 8. Evidência visual
 
-![Página inicial da ArtAboutColor com título personalizado, menu, apresentação dos serviços e botão de chat](imagens/site-artaboutcolor.png)
+<img width="577" height="282" alt="vitrine" src="https://github.com/user-attachments/assets/56d9177a-7648-40bf-87c1-7f61cc6e1ee7" />
+<img width="577" height="358" alt="pagina-inicial" src="https://github.com/user-attachments/assets/c74cd316-41a2-437e-8aaa-938526b8ce95" />
+
 
 *Captura fornecida em 31 de outubro de 2026. A imagem documenta a interface publicada. A alternância de cores deve ser observada clicando no título ou assistindo à demonstração em vídeo.*
 
