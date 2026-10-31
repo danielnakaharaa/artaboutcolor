@@ -107,17 +107,8 @@ Também devem ser verificados o contraste das duas cores sobre o fundo, os texto
 
 Para testar somente a personalização, abra o arquivo `titulo-interativo.html` em um navegador. Ele contém exatamente o trecho utilizado no projeto e não representa uma exportação do site completo.
 
-## 10. Arquivos do repositório
 
-| Arquivo | Descrição |
-| --- | --- |
-| `README.md` | Documentação do projeto |
-| `titulo-interativo.html` | Código personalizado do título |
-| `imagens/site-artaboutcolor.png` | Captura da página publicada |
-
-O restante da aplicação é mantido e publicado no Wix.
-
-## 11. Limitações e aprendizados
+## 10. Limitações e aprendizados
 
 A principal limitação encontrada foi o isolamento do HTML incorporado em relação ao restante da página. Uma tentativa anterior de criar um modo escuro global dependia de integração com código da página, que não estava disponível no editor utilizado. Por isso, a personalização escolhida atua dentro do próprio componente.
 
@@ -125,13 +116,3 @@ O projeto permitiu aplicar a estrutura do HTML, o estilo do CSS e um evento Java
 
 Como melhorias futuras, estão previstos o suporte ao teclado no título, a revisão em telas menores e a documentação dos testes do atendimento.
 
-## 12. Vídeo de apresentação
-
-**Link do vídeo: inserir após a publicação.**
-
-A apresentação, de até **4 minutos**, deverá mostrar o problema e a solução, o site funcionando, a plataforma Wix, o clique que altera a cor do título, o recurso de atendimento automatizado ou integração efetivamente configurado e o principal diferencial do projeto.
-
-## Autor
-
-**Daniel Fernandes Nakahara**  
-UniFECAF — Padrões Web para No Code e Low Code.
